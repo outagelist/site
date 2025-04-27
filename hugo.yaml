@@ -1,0 +1,48 @@
+---
+baseURL: https://outagelist.org
+languageCode: en-us
+title: OutageList.org
+copyright: OutageList.org
+theme: typo
+
+params:
+  author: OutageList.org
+  description: >
+    This is a web site about the OutageList.org service, which provides
+    an email-based mailing list which can be subscribed to and
+    contributed to by sys- and net-admins across the world for the common
+    purpose of making others aware of and becoming aware of outages.
+  theme: auto
+  colorPalette: base16-ocean
+  listDateFormat: 2006-01-02
+  hidePagination: true
+  hideBackToTop: true
+  hideHeader: false
+  showFooter: true
+  footerContent: Copyright © 2025, OutageList.org. All rights reserved.
+  homeIntroTitle: An improved outage e-mail list.
+  homeIntroContent: Coming May 1, 2025.
+  breadcrumbs:
+    enabled: false
+  menu:
+    - name: home
+      url: /
+      weight: 25
+    - name: about
+      url: /about
+      weight: 50
+    - name: github
+      url: https://github.com/outagelist
+      newTab: true
+      weight: 125
+    - name: pgpkey
+      url: /pgp.asc
+      weight: 175
+    - name: contact
+      url: /contact
+      weight: 200
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

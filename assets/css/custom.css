@@ -1,0 +1,12 @@
+h1.header-title {
+  background-image: url('/img/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-left: 1.7em;
+  height: 1.4em;
+}
+
+div.flex {
+  padding-left: 4.6em;
+  margin-top: -0.8em;
+  }
