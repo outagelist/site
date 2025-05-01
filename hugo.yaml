@@ -21,7 +21,7 @@ params:
   showFooter: true
   footerContent: Copyright © 2025, OutageList.org. All rights reserved.
   homeIntroTitle: An improved outage e-mail list.
-  homeIntroContent: Coming May 1, 2025.
+  homeIntroContent: Coming May 15, 2025.
   breadcrumbs:
     enabled: false
   menu:
