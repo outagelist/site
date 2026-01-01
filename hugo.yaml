@@ -19,9 +19,9 @@ params:
   hideBackToTop: true
   hideHeader: false
   showFooter: true
-  footerContent: Copyright © 2025, OutageList.org. All rights reserved.
+  footerContent: Copyright © 2026, OutageList.org. All rights reserved.
   homeIntroTitle: An improved outage e-mail list.
-  homeIntroContent: Coming January 1, 2026.
+  homeIntroContent: Coming February 1, 2026.
   breadcrumbs:
     enabled: false
   menu:
