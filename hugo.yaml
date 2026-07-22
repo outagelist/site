@@ -21,7 +21,7 @@ params:
   showFooter: true
   footerContent: Copyright © 2026, OutageList.org. All rights reserved.
   homeIntroTitle: An improved outage e-mail list.
-  homeIntroContent: Coming February 1, 2026.
+  homeIntroContent: Coming September 1, 2026.
   breadcrumbs:
     enabled: false
   menu:
